@@ -1,0 +1,12 @@
+{
+  "name": "framen-automation",
+  "version": "1.0.0",
+  "description": "Framen ad automation for Yodeck",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "2.6.9"
+  }
+}
